@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:0,i1.1. Intro année
+#EXTVLCOPT:network-caching=5000
+https://drive.google.com/uc?id=1XK6AyvZlSst5XwkD7c12eJACMtYEmVwE
+#EXTINF:0,1.2. Intro mise à niveau
+#EXTVLCOPT:network-caching=5000
+https://drive.google.com/uc?id=1n5MY-VUJYiiUWcMIOpZt5A060CTze_5M
+#EXTINF:0,2.1. Gestion de dépendance et build
+#EXTVLCOPT:network-caching=5000
+https://drive.google.com/uc?id=1eE_ysybblpW2RdUx7hLvu-ubfH3p05hb
+#EXTINF:0,2.2. Demo Maven
+#EXTVLCOPT:network-caching=5000
+https://drive.google.com/uc?id=1bO-e2d5rscBCZ7LfDfX8iYkBznHkubI8
+#EXTINF:0,3.1. Gestionnaire de versions
+#EXTVLCOPT:network-caching=5000
+https://drive.google.com/uc?id=1VdVK_cFuw2xgFurzAg0W5PgK-SNGaGOD
+#EXTINF:0,3.2. SVN
+#EXTVLCOPT:network-caching=5000
+https://drive.google.com/uc?id=1KgjNNPdgqcKOpyx-doZG_E6ivjG2DJmb
+#EXTINF:0,3.3. GIT
+#EXTVLCOPT:network-caching=5000
+https://drive.google.com/uc?id=15_msaUFkYxPYOO2jJ5VCPsMlATPi_Fpp
+#EXTINF:0,3.4. Démo Git
+#EXTVLCOPT:network-caching=5000
+https://drive.google.com/uc?id=1WOLUTsW4qT_bpuExGarSn2mR-d-yAK8_
+#EXTINF:0,4.1. Intégration continue
+#EXTVLCOPT:network-caching=5000
+https://drive.google.com/uc?id=1-Vr-ehJul7SaORQ1tuVnT2WD1eztcVsA
+#EXTINF:0,4.2. Demo Jenkins + gitlab
+#EXTVLCOPT:network-caching=5000
+https://drive.google.com/uc?id=1Y0qq7Ypzv2Pkt8vzvVwqJRlGI2BkObAr
+#EXTINF:0,5.1. Introduction: Docker c'est quoi, à quel problème cela répond
+#EXTVLCOPT:network-caching=5000
+https://drive.google.com/uc?id=1x3fw72g33nbnGYgvgu8Cx8ndItIh7ac3
+#EXTINF:0,5.2. Docker, les dessous de l'iceberg
+#EXTVLCOPT:network-caching=5000
+https://drive.google.com/uc?id=1JAjRAyVvzoBR73syry6uayp0QFhApsNK
